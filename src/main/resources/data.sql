@@ -1,0 +1,1 @@
+INSERT INTO BOOK (version_id, book_name, author, book_content) VALUES ('123', 'Java', 'SUN', 'sdsadfsdaf');
